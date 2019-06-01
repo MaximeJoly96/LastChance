@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: de798fd03e9d1404dab84d833f594e31
+timeCreated: 1508686351
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FairydustB
+  fontNames:
+  - FairydustB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
